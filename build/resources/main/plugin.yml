@@ -1,0 +1,6 @@
+name: Bong
+version: 1.0
+author: semin
+main: org.semin.Main
+depend:
+  - CommandAPI
